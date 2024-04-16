@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 
     <head>
@@ -8,7 +7,7 @@
         <link rel="stylesheet" href="style.css">
     </head>
 
-    <body style="background-color: aqua;">
+    <body style="background-color: aqua;" style="text-align: center;">
       
         
           <header id="headerinind">
