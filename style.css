@@ -1,0 +1,93 @@
+#di1 {
+    width: 100%;
+    margin:auto;
+    border-style: groove;
+    align-self: center;
+    font-size: 2em;
+    background-color: greenyellow;
+}
+
+#headerinind {
+    text-align: center;
+}
+
+#divinind {
+    text-align: center;
+}
+
+#but1 {
+    text-align: center;
+    font-size: 1em;
+    background-color: rgba(255, 0, 0, 0.723);
+}
+
+#but1:hover {
+    background-color: rgb(255, 0, 0);
+}
+
+#di2 {
+    border-style: groove;
+    border-color: black;
+    width: fit-content;
+}
+
+#but2 {
+    background-color: yellow;
+}
+
+#but2:hover {
+    background-color: red;
+}
+
+#divinind3 {
+    border-style: groove;
+    border-color: black;
+    border-width: 5px;
+    width: fit-content;
+}
+
+#butinind3 {
+    font-size: 2em;
+    background-color: yellow;
+}
+
+#butinind3:hover {
+    background-color: red;
+}
+
+#box1 {
+    width: 10em;
+    height: 10em;
+    font-size: 1em;
+    background-color: grey;
+    text-align: center;
+    animation-name: slideright;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-play-state: running;
+}
+
+#box1:hover {
+    background-color: white;
+}
+
+@keyframes slideright {
+    to{transform: translateX(1500%);}
+}
+
+#header1 {
+    text-align: center;
+}
+
+#divinind5 {
+    text-align: center;
+}
+
+#butinind5 {
+    font-size: 2em;
+    background-color: yellow;
+}
+
+#butinind5:hover {
+    background-color: red;
+}

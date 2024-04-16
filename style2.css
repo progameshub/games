@@ -1,0 +1,15 @@
+#retrybut {
+    font-size: 8em;
+}
+
+#butten {
+    text-align: center;
+}
+
+body {
+    background-image: url(ishowspeed-demon.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
