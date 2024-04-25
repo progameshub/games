@@ -195,3 +195,32 @@
     animation-iteration-count: infinite;
     animation-play-state: running;
 }
+
+#btn2inind7 {
+    background-color: white;
+    color: white;
+    border-style: none;
+}
+
+#btn3inind7 {
+    background-color: white;
+    color: white;
+    border-style: none;
+}
+
+#btninind9 {
+    background-color: white;
+    color: white;
+    border-style: none;
+    position: center;
+    height: 52em;
+    width: 1000em;
+}
+
+#bod8 {
+    background-image: url(OIP\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
